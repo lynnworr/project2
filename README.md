@@ -1,4 +1,4 @@
-# project2
+# Project 2
 
 ## Project Proposal
 
@@ -9,14 +9,18 @@ We are a new internet provider looking to expand to the global market. We will b
 
 In order to aquire our data, we used a few sources. This includes Kaggle, the Human Development Reports website, and World Bank website as well. Our sources comprise of excel files and csv files. 
 
-### Datasets Used:
+
+## Data Cleanup & Analysis
+
+
+
+
+
+### Sources:
 * https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
 * https://www.kaggle.com/datasets/ashishraut64/internet-users
 * https://hdr.undp.org/data-center/documentation-and-downloads (Table 2)
 * https://ourworldindata.org/internet
-
-## Data Cleanup & Analysis
-
 
 ## Project Report
 
