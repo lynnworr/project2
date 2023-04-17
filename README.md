@@ -18,7 +18,7 @@ We extracted our data using the Excel dataset from und.org and the csv dataset f
 
 *Transform*
 
-We were able to witness a steady increase in internet usage across the globe, once we read the data from the Human Development site. We cleaned this data by selecting only the "Year column equal to 2020 inorder to narrow down our results and focus on a recent year of findings. We also dropped null or blank rows in the "Entity" column to minimize skewed results. After this was complete, we dropped the "Unamed:0" and "Year" columns to continue narrowing down our findings. So that data could be more easily interpreted, we renamed the "Entity" column to "Country".  
+Once we read the data from the Human Development site, we were able to witness a steady increase in internet usage across the globe. We cleaned this data by selecting only the "Year" column equal to 2020 in order to narrow down our results and focus on a recent year of findings. We also dropped null or blank rows in the "Entity" column to minimize skewed results. After this was complete, we dropped the "Unamed:0" and "Year" columns to continue narrowing down our findings. So that data could be more easily interpreted, we renamed the "Entity" column to "Country".  
 
 
 
