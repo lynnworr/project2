@@ -12,6 +12,8 @@ In order to aquire our data, we used a few sources. This includes Kaggle, the Hu
 
 ## Data Cleanup & Analysis
 
+**Extract**
+We extracted our data using the Excel dataset from und.org and the csv dataset from kaggle.com. 
 
 
 
@@ -19,8 +21,7 @@ In order to aquire our data, we used a few sources. This includes Kaggle, the Hu
 ### Sources:
 * https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
 * https://www.kaggle.com/datasets/ashishraut64/internet-users
-* https://hdr.undp.org/data-center/documentation-and-downloads (Table 2)
-* https://ourworldindata.org/internet
+*
 
 ## Project Report
 
