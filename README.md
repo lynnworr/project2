@@ -28,7 +28,7 @@ Once our data was collected and transformed, we were able to load it into the no
 
 ## Conclusion
 
-In conclusion, No World Border was able to decide that Sri Lanka,  with and HDI rank of 73 and Internet Users (%) of 35 would make the best headquarters for our new internet service company. HDI under 100 indicates a healthy human development and 35% of the population being internet users allows for growth in the industry.
+In conclusion, No World Border was able to decide that Sri Lanka,  with an HDI rank of 73 and an Internet Users (%) of 35 would make the best headquarters for our new internet service company. HDI under 100 indicates healthy human development and 35% of the population being internet users allows for growth in the industry.
 
 
 ### Sources:
