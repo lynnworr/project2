@@ -2,7 +2,7 @@
 
 ## Project Proposal
 
-We are a new internet provider looking to expand to the global market. We will be examining different countries throughout the years to track the increase in internet use and where these increases thrive. We will compare this data to the global HDI (Human Development Index) as well to determine which country is the best fit for our new headquarters.
+We are a new internet provider, No World Border, who is looking to expand to the global market. We will be examining different countries throughout the years to track the increase in internet use and where these increases thrive. We will compare this data to the global HDI (Human Development Index) as well to determine which country is the best fit for our new headquarters.
 
 
 ## Finding Data
@@ -25,6 +25,11 @@ Next, we merged this data with the excel data found on Kaggle, and we cleaned it
 *Load*
 
 Once our data was collected and transformed, we were able to load it into the non-relational database, MongoDB. We named our instance of MongoClient "mongo" and inserted our data (hdiInfo) into a collection using .insert_many. We queried the collection with "results" equal to list(hdiInfo.find()), and were able to successfully confirm that the data was loaded when seaching "for x in results".
+
+## Conclusion
+
+In conclusion, No World Border was able to decide that Sri Lanka,  with and HDI rank of 73 and Internet Users (%) of 35 would make the best headquarters for our new internet service company. HDI under indicates a healthy human development and 35% of the population being internet users allows for growth in the industry.
+
 
 ### Sources:
 * https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
