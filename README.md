@@ -7,7 +7,7 @@ We are a new internet provider looking to expand to the global market. We will b
 
 ## Finding Data
 
-In order to aquire our data, we used a few sources. This includes Kaggle, the Human Development Reports website, and World Bank website as well. Our sources comprise of excel files and csv files. 
+In order to aquire our data, we used a few sources. This includes Kaggle and the Human Development Reports website. Our sources comprise of excel files and csv files. 
 
 
 ## Project Report
