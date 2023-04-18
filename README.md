@@ -24,7 +24,7 @@ Next, we merged this data with the excel data found on Kaggle, and we cleaned it
 
 *Load*
 
-Once our data was collected and transformed, we were able to load it into the non-relational database, MongoDB. We named our instance of MongoClient "mongo" and inserted our data (hdiTest) into a collection using .insert_many. We queried the collection with "results" equal to list(hdiTest.find()), and were able to successfully confirm that the data was loaded when seaching "for x in results".
+Once our data was collected and transformed, we were able to load it into the non-relational database, MongoDB. We named our instance of MongoClient "mongo" and inserted our data (hdiInfo) into a collection using .insert_many. We queried the collection with "results" equal to list(hdiInfo.find()), and were able to successfully confirm that the data was loaded when seaching "for x in results".
 
 ### Sources:
 * https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
