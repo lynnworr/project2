@@ -10,7 +10,7 @@ We are a new internet provider, No World Border, who is looking to expand to the
 In order to aquire our data, we used a few sources. These include Kaggle and the Human Development Reports website. Our sources comprise of excel files and csv files. 
 
 
-## Project Report
+## Report
 
 *Extract*
 
