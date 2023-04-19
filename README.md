@@ -14,7 +14,7 @@ In order to aquire our data, we used a few sources. These include Kaggle and the
 
 *Extract*
 
-We extracted our data using the Excel dataset from und.org and the csv dataset from kaggle.com. 
+We extracted our data using the Excel dataset from undp.org and the csv dataset from kaggle.com. 
 
 *Transform*
 
