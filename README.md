@@ -26,7 +26,7 @@ Next, we merged this data with the excel data found on Kaggle, and we cleaned it
 
 Once our data was collected and transformed, we were able to load it into the non-relational database, MongoDB. We used MongoDB to accommodate our everchanging data like the percent of internet users changing over the years. We named our instance of MongoClient "mongo" and inserted our data (hdiInfo) into a collection using .insert_many. We queried the collection with "results" equal to list(hdiInfo.find()), and were able to successfully confirm that the data was loaded when seaching "for x in results".
 
-## Conclusion
+## Conclusion 
 
 In conclusion, No World Border was able to decide that Sri Lanka,  with an HDI rank of 73 and an Internet Users (%) of 35 would make the best headquarters for our new internet service company. HDI under 100 indicates healthy human development and 35% of the population being internet users allows for growth in the industry.
 
