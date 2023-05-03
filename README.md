@@ -22,13 +22,21 @@ Once we read the data from the Human Development site, we were able to witness a
 
 Next, we merged this data with the excel data found on Kaggle, and we cleaned it up by reordering the columns, and checking for any duplicates. We converted our dataframe to a list of dictionaries, and it was ready for the next step.
 
+<img width="799" alt="Screenshot 2023-05-03 at 3 39 54 PM" src="https://user-images.githubusercontent.com/121995835/236027822-50507338-2b5e-476c-b42f-6aba7024c1d2.png">
+
+
 *Load*
 
 Once our data was collected and transformed, we were able to load it into the non-relational database, MongoDB. We used MongoDB to accommodate our everchanging data like the percent of internet users changing over the years. We named our instance of MongoClient "mongo" and inserted our data (hdiInfo) into a collection using .insert_many. We queried the collection with "results" equal to list(hdiInfo.find()), and were able to successfully confirm that the data was loaded when seaching "for x in results".
 
+<img width="717" alt="Screenshot 2023-05-03 at 3 40 59 PM" src="https://user-images.githubusercontent.com/121995835/236028044-a8ec785d-825c-4715-b5dd-afdc70e735de.png">
+
+
 ## Conclusion 
 
 In conclusion, No World Border was able to decide that Sri Lanka,  with an HDI rank of 73 and an Internet Users (%) of 35 would make the best headquarters for our new internet service company. HDI under 100 indicates healthy human development and 35% of the population being internet users allows for growth in the industry.
+
+<img width="1065" alt="Screenshot 2023-05-03 at 3 42 02 PM" src="https://user-images.githubusercontent.com/121995835/236028341-eeac49fb-93ce-422c-9523-78b8a63e4e8b.png">
 
 
 ### Sources:
