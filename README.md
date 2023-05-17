@@ -1,4 +1,4 @@
-# Project 2
+# No World Border
 
 ## Proposal
 
